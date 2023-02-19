@@ -1,0 +1,33 @@
+Rolex|Submariner|17000|1|1953|114060
+Rolex|Daytona|60000|1|1963|116500LN
+Rolex|GMT-Master II|12000|1|1982|116710BLNR
+Rolex|Day-Date|100000|1|1956|118238
+Rolex|Yacht-Master|50000|1|1992|116655
+Rolex|Explorer|9000|1|1953|214270
+Rolex|Oyster Perpetual|7000|1|1926|114300
+Rolex|Sky-Dweller|45000|1|2012|326934
+Rolex|Datejust|20000|1|1945|116234
+Rolex|Sea-Dweller|12000|1|1967|126603
+Rolex|Air-King|7000|1|1957|116900
+Rolex|Milgauss|10000|1|1954|116400GV
+Rolex|Cellini|20000|1|2014|50509
+Richard Mille|RM 11-03 Automatic Flyback Chronograph|900000|1|2018|RM 11-03
+Richard Mille|RM 50-03 Tourbillon Split Seconds Chronograph McLaren F1|2000000|1|2018|RM 50-03 McLaren
+Richard Mille|RM 27-03 Tourbillon Rafael Nadal|850000|1|2017|RM 27-03
+Richard Mille|RM 11-02 Automatic Chronograph|140000|1|2006|RM 11-02
+Richard Mille|RM 037 Automatic|300000|1|2012|RM 037
+Richard Mille|RM 056 Sapphire Tourbillon Split Seconds Chronograph|2800000|1|2013|RM 056
+Richard Mille|RM 07-01 Automatic|150000|1|2015|RM 07-01
+Richard Mille|RM 70-01 Alain Prost Tourbillon|600000|1|2016|RM 70-01
+Richard Mille|RM 055 Bubba Watson|400000|1|2012|RM 055
+Richard Mille|RM 61-01 Yohan Blake Tourbillon|500000|1|2017|RM 61-01
+Audemars Piguet|Royal Oak Offshore|20000|1|1993|26170ST.OO.D101CR.01
+Audemars Piguet|Jules Audemars|45000|1|1987|26150OR.OO.D088CR.01
+Audemars Piguet|Royal Oak Chronograph|35000|1|1992|26320ST.OO.D101CR.01
+Audemars Piguet|Millenary|60000|1|1995|77247BC.ZZ.A101CR.01
+Audemars Piguet|Royal Oak Selfwinding|25000|1|2016|15400OR.OO.1220OR.01
+Audemars Piguet|Code 11.59|65000|1|2019|26395OR.OO.A002CR.01
+Audemars Piguet|Royal Oak Dual Time|30000|1|2003|26120ST.OO.D305CR.01
+Audemars Piguet|Royal Oak Perpetual Calendar|85000|1|2002|25721ST.OO.A101CR.01
+Audemars Piguet|Royal Oak Offshore Diver|25000|1|2010|15710ST.OO.A051CA.01
+Audemars Piguet|Royal Oak Tourbillon Extra-Thin Openworked|300000|1|2016|25651BA.OO.1240BA.01
